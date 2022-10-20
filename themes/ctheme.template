@@ -1,0 +1,18 @@
+themeName= # Theme name of your theme
+themeDesc= # A short description for your theme
+themeAuthor= # Your name
+shells=(
+  #The shells this theme supports, in indivitual single quotes ('zsh' 'bash' 'fish')
+)
+
+zshTheme() {
+	# All the stuff you want to run to theme only a Zsh prompt
+}
+
+bashTheme() {
+	# All the stuff you want to run to theme only a Bash prompt
+}
+
+fishTheme() {
+	# All the stuff you want to run to theme only a Fish prompt
+}
