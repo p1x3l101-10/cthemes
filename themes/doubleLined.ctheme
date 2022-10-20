@@ -1,7 +1,6 @@
 themeName="Double lined"
 themeDesc="A double lined theme with root support"
 themeAuthor="Pixel"
-depends=()
 shells=('zsh' 'bash')
 
 zshTheme() {
